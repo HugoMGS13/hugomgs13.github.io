@@ -32,3 +32,9 @@ h2{
     -webkit-text-stroke-color: rgb(14, 39, 182);
     -webkit-text-stroke-width: 1px;
 }
+h1::before{
+    content: '&rarr;'
+}
+h1::after{
+    content:'&larr;'
+}
