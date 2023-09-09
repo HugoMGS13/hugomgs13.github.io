@@ -19,6 +19,10 @@ h2{
     background-image: linear-gradient(-90deg,red,blue);
     text-align: center;
 }
+#titulo1{
+    background-image: linear-gradient(-90deg,red,blue);
+    text-align: center;
+}
 #ancoratitulo1{
     text-decoration:none;
 }
@@ -37,4 +41,16 @@ h2{
 }
 .livros{
     color: rgba(255, 0, 0, 0.767)
+}
+.livros:hover{
+    color: rgb(190, 4, 4);
+}
+.cursos{
+    color: rgb(192, 232, 245);
+}
+.cursos:hover{
+    color: rgb(4, 4, 204);
+}
+.defcursos{
+    color: rgb(43, 196, 216);
 }
