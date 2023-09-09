@@ -32,3 +32,6 @@ h2{
     -webkit-text-stroke-color: rgb(14, 39, 182);
     -webkit-text-stroke-width: 1px;
 }
+#info{
+    background-image: linear-gradient(black,white);
+}
