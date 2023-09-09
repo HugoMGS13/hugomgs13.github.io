@@ -33,5 +33,5 @@ h2{
     -webkit-text-stroke-width: 1px;
 }
 #info{
-    background-image: linear-gradient(black,white);
+    background-image: linear-gradient(white,black);
 }
