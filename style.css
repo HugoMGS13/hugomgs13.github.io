@@ -6,6 +6,7 @@ body{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 1.9em;
     margin: auto;
+    text-shadow: 1.4px 0.5px 0px rgba(0, 0, 0, 0.466);
 }
 p{
     text-align: justify;
